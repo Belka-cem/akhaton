@@ -1,0 +1,29 @@
+  /******************************* progresse bar *********************************/
+
+
+progress {
+    -webkit-appearance: none;
+  }
+  
+  progress::-webkit-progress-value {
+    background-color: #00e676;
+    border-radius: 2px;
+  }
+  
+  /******************************* partie image atom *********************************/
+
+  .bg-atom{
+    
+      height: 100%;
+      width:  100%;
+      background-image: url("../img/atom1.png");
+      background-repeat: no-repeat;
+      
+  }
+
+  img{
+    margin-bottom: 10px ;
+  }
+
+
+ 
